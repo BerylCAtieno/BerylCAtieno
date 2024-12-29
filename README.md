@@ -1,19 +1,20 @@
-👨‍💻 Backend Engineer | AI Enthusiast | Golang Developer
+<h1 align="center">Hi 👋, I'm Beryl Atieno</h1>
+<h3 align="center">A passionate full-stack dev from Nairobi, Kenya</h3>
 
-Hello there! I'm a backend engineer with a strong focus on creating reliable and efficient systems. 
+- 🌱 I’m currently learning **react and express.js**
 
-### 🛠️ Tech Stack:
-- **Languages:** Javascript, Python, Go
-- **Frameworks:** Django, Express.js
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-- **Tools:** Docker, Jenkins, Terraform
+- 👨‍💻 Check out my portfolio at [https://berylcatieno.github.io/my-portfolio/](https://berylcatieno.github.io/my-portfolio/)
 
-### 🌟 Featured Projects:
-- **[Project 1 Name](link):** A real-time chat application with WebSocket support and Redis for caching.
-- **[Project 2 Name](link):** A CI/CD pipeline setup for microservices using Jenkins and Docker.
+- 📫 How to reach me **berylatieno30@gmail.com**
 
-### 📈 I'm currently exploring:
-- Serverless architectures
-- Event-driven microservices
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itsberyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsberyl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berylcatieno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berylcatieno" height="30" width="40" /></a>
+</p>
 
-Feel free to explore my repositories and let's collaborate on exciting projects!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berylcatieno&show_icons=true&locale=en&layout=compact" alt="berylcatieno" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berylcatieno&show_icons=true&locale=en" alt="berylcatieno" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berylcatieno&" alt="berylcatieno" /></p>
