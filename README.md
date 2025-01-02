@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react and express.js**
 
-- 👨‍💻 Check out my portfolio at [https://berylcatieno.github.io/my-portfolio/](https://berylcatieno.github.io/my-portfolio/)
+- 👨‍💻 Check out my portfolio at [https://berylcatieno.github.io/my-portfolio/](https://berylcatieno.github.io/my-portfolio/) (work in progress)
 
 - 📫 How to reach me **berylatieno30@gmail.com**
 
