@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beryl Atieno</h1>
-<h3 align="center">A passionate full-stack dev from Nairobi, Kenya</h3>
-
-- 🌱 I’m currently learning **react and express.js**
+<h3 align="center">A passionate backend developer from Nairobi, Kenya</h3>
 
 - 📫 How to reach me **berylatieno30@gmail.com**
 
