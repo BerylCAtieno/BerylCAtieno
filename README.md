@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berylcatieno&" alt="berylcatieno" /></p>
 
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="100" src="https://i.imgflip.com/65efzo.gif"  />
