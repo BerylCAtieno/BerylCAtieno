@@ -14,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berylcatieno&show_icons=true&locale=en" alt="berylcatieno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berylcatieno&" alt="berylcatieno" /></p>
+
+<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
