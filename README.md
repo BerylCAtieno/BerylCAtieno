@@ -9,8 +9,8 @@
 <a href="https://linkedin.com/in/berylcatieno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berylcatieno" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berylcatieno&show_icons=true&locale=en&layout=compact" alt="berylcatieno" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berylxo&show_icons=true&locale=en&layout=compact" alt="berylxo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berylcatieno&show_icons=true&locale=en" alt="berylcatieno" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berylxo&show_icons=true&locale=en" alt="berylxo" /></p>
 
 <img align="center" height="100" src="https://i.imgflip.com/65efzo.gif"  />
